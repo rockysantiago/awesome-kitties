@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  repo: rockysantiago/awesome-kitties
   branch: main
 media_folder: public/img
 public_folder: img
